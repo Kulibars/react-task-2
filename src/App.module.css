@@ -1,0 +1,43 @@
+.calculator {
+  margin: 20px auto;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 300px;
+  background: linear-gradient(75deg, #222529 -4.6%, #1d75d3 200.44%);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.display {
+  font-family: fangsong;
+  font-size: xx-large;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  background: white;
+  height: 40px;
+}
+
+.displayEquals {
+  font-family: fangsong;
+  font-size: xx-large;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  background: white;
+  height: 40px;
+  color: red;
+}
+
+.nums {
+  border-radius: 10px;
+  margin: 7px;
+  padding: 25px;
+}
+
+.buttons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
